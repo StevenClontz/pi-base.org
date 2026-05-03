@@ -14,6 +14,7 @@ Underlying software is available on [GitHub](https://github.com/pi-base/).
 
 - [DaRT: Database of Ring Theory](https://ringtheory.herokuapp.com/)
 - [CatDat (category theory)](https://catdat.app/)
+- [Ricerca Matrici per Proprieta (matrices)](https://giovannibarbarino.github.io/LA-examples.github.io/)
 
 See also Terence Tao's [MathOverflow post listing crowd-sourced math research projects][0].
 
